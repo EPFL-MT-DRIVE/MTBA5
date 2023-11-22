@@ -8,10 +8,16 @@ general info regarding the fifth semester of microtechnic at EPFL
 
 # Cours
 
-[MICRO-310 Signaux et systèmes I](https://github.com/EPFL-MT-DRIVE/MICRO-310)
-[MICRO-332 Microfabrication Practicals](https://github.com/EPFL-MT-DRIVE/MICRO-332)
-[MICRO-331 Microfabrication technologie](https://github.com/EPFL-MT-DRIVE/MICRO-331)
-[EE-336 Circuits et systèmes électroniques](https://github.com/EPFL-MT-DRIVE/EE-336)
-[MICRO-321 Optique](https://github.com/EPFL-MT-DRIVE/MICRO-321)
-[ME-326 Automatique et commande numérique](https://github.com/EPFL-MT-DRIVE/ME-326)
-[MICRO-313 Actionneur et systèmes électromagnétiques I](https://github.com/EPFL-MT-DRIVE/MICRO-313)
+*[MICRO-310 Signaux et systèmes I](https://github.com/EPFL-MT-DRIVE/MICRO-310)
+
+*[MICRO-332 Microfabrication Practicals](https://github.com/EPFL-MT-DRIVE/MICRO-332)
+
+*[MICRO-331 Microfabrication technologie](https://github.com/EPFL-MT-DRIVE/MICRO-331)
+
+*[EE-336 Circuits et systèmes électroniques](https://github.com/EPFL-MT-DRIVE/EE-336)
+
+*[MICRO-321 Optique](https://github.com/EPFL-MT-DRIVE/MICRO-321)
+
+*[ME-326 Automatique et commande numérique](https://github.com/EPFL-MT-DRIVE/ME-326)
+
+*[MICRO-313 Actionneur et systèmes électromagnétiques I](https://github.com/EPFL-MT-DRIVE/MICRO-313)
